@@ -1,14 +1,15 @@
-﻿using System;
-using System.ComponentModel;
+﻿using Basic_of_.NET_Framework_and_C_;
+using System;
 
-class Program
+namespace NumberConverterApp
 {
-    static void Main(string[] args)
+    class Program
     {
-        if (CommandLineArgsParser.TryParseCommandLineArgs(args, out int decimalNumber, out int newBase))
+        static void Main(string[] args)
         {
-            string convertedNumber = BaseConverter.ConvertToBase(decimalNumber, newBase);
-            Console.WriteLine($"Decimal {decimalNumber} converted to base {newBase}: {convertedNumber}");
+            Execution.execution(args);
+                
+                  
         }
     }
 }

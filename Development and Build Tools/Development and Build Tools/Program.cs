@@ -1,21 +1,10 @@
-﻿using System;
-
-class Program
+﻿namespace program
 {
-    static void Main()
+    class Program
     {
-        string[] args = CommandLineArgsParser.GetCommandLineArgs();
-
-        if (args.Length == 0)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Please provide a sequence of symbols as command-line arguments.");
-            return;
-        }
-
-        foreach (string arg in args)
-        {
-            int maxConsecutiveUnequal = SymbolSequenceAnalyzer.GetMaxConsecutiveUnequal(arg);
-            Console.WriteLine($"For the sequence: \"{arg}\", the maximum number of unequal consecutive characters is: {maxConsecutiveUnequal}");
+            Method.execution(); // Start the program
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorg\\OneDrive\\Desktop\\TASKS 2\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj": {}
+    "C:\\Users\\giorg\\OneDrive\\Desktop\\tasks\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorg\\OneDrive\\Desktop\\TASKS 2\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj": {
+    "C:\\Users\\giorg\\OneDrive\\Desktop\\tasks\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorg\\OneDrive\\Desktop\\TASKS 2\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
+        "projectUniqueName": "C:\\Users\\giorg\\OneDrive\\Desktop\\tasks\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
         "projectName": "Interfaces and Abstract Classes",
-        "projectPath": "C:\\Users\\giorg\\OneDrive\\Desktop\\TASKS 2\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
+        "projectPath": "C:\\Users\\giorg\\OneDrive\\Desktop\\tasks\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes.csproj",
         "packagesPath": "C:\\Users\\giorg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorg\\OneDrive\\Desktop\\TASKS 2\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\obj\\",
+        "outputPath": "C:\\Users\\giorg\\OneDrive\\Desktop\\tasks\\Interfaces and Abstract Classes\\Interfaces and Abstract Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorg\\AppData\\Roaming\\NuGet\\NuGet.Config",

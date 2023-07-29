@@ -1,9 +1,19 @@
-﻿public interface IFlyable
-{
-    // The FlyTo method sets the new position of the flying object.
-    void FlyTo(Coordinate newPosition);
+﻿namespace Iflyable
 
-    // The GetFlyTime method calculates the time taken to fly to the new position.
-    // The unit of time may vary depending on the object's speed.
-    double GetFlyTime(Coordinate newPosition);
+{
+
+
+    public struct Coordinate
+    {
+        public double X { get; set; }
+        public double Y { get; set; }
+        public double Z { get; set; }
+    }
+
+    public interface IFlyable
+    {
+        void FlyTo(Coordinate newPoint);
+        double GetFlyTime(Coordinate newPoint);
+    }
+
 }
