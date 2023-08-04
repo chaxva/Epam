@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <Truck>
+    <Model>Delivery Truck</Model>
+    <Engine>
+      <Power>150</Power>
+      <Type>Petrol</Type>
+      <SerialNumber>ABC123</SerialNumber>
+    </Engine>
+  </Truck>
+  <Bus>
+    <Model>School Bus</Model>
+    <Engine>
+      <Power>150</Power>
+      <Type>Petrol</Type>
+      <SerialNumber>ABC123</SerialNumber>
+    </Engine>
+  </Bus>
+</Vehicles>

@@ -1,0 +1,15 @@
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\bin\Debug\net6.0\Development and Build Tools.exe
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\bin\Debug\net6.0\Development and Build Tools.deps.json
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\bin\Debug\net6.0\Development and Build Tools.runtimeconfig.json
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\bin\Debug\net6.0\Development and Build Tools.dll
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\bin\Debug\net6.0\Development and Build Tools.pdb
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.csproj.AssemblyReference.cache
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.AssemblyInfoInputs.cache
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.AssemblyInfo.cs
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.csproj.CoreCompileInputs.cache
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.dll
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\refint\Development and Build Tools.dll
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.pdb
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\Development and Build Tools.genruntimeconfig.cache
+C:\Users\giorg\OneDrive\Desktop\Epam\EPAM\Development and Build Tools\obj\Debug\net6.0\ref\Development and Build Tools.dll

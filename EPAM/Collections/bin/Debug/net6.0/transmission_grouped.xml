@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <TransmissionGroup>
+    <Type>Automatic</Type>
+    <PassengerCar>
+      <Model>Sedan X</Model>
+      <Engine>
+        <Power>150</Power>
+        <Volume>2</Volume>
+        <Type>Petrol</Type>
+        <SerialNumber>ABC123</SerialNumber>
+      </Engine>
+      <Chassis>
+        <WheelsNumber>4</WheelsNumber>
+        <Number>123456</Number>
+        <PermissibleLoad>500</PermissibleLoad>
+      </Chassis>
+      <Transmission>
+        <Type>Automatic</Type>
+        <NumberOfGears>6</NumberOfGears>
+        <Manufacturer>XYZ Manufacturer</Manufacturer>
+      </Transmission>
+    </PassengerCar>
+    <Truck>
+      <Model>Delivery Truck</Model>
+      <Engine>
+        <Power>150</Power>
+        <Volume>2</Volume>
+        <Type>Petrol</Type>
+        <SerialNumber>ABC123</SerialNumber>
+      </Engine>
+      <Chassis>
+        <WheelsNumber>6</WheelsNumber>
+        <Number>789012</Number>
+        <PermissibleLoad>3000</PermissibleLoad>
+      </Chassis>
+      <Transmission>
+        <Type>Automatic</Type>
+        <NumberOfGears>6</NumberOfGears>
+        <Manufacturer>XYZ Manufacturer</Manufacturer>
+      </Transmission>
+    </Truck>
+    <Scooter>
+      <Model>City Scooter</Model>
+      <Engine>
+        <Power>10</Power>
+        <Volume>0.5</Volume>
+        <Type>Petrol</Type>
+        <SerialNumber>XYZ987</SerialNumber>
+      </Engine>
+      <Chassis>
+        <WheelsNumber>2</WheelsNumber>
+        <Number>13579</Number>
+        <PermissibleLoad>50</PermissibleLoad>
+      </Chassis>
+      <Transmission>
+        <Type>Automatic</Type>
+        <NumberOfGears>1</NumberOfGears>
+        <Manufacturer>Scooter Manufacturer</Manufacturer>
+      </Transmission>
+    </Scooter>
+  </TransmissionGroup>
+  <TransmissionGroup>
+    <Type>Manual</Type>
+    <Bus>
+      <Model>School Bus</Model>
+      <Engine>
+        <Power>150</Power>
+        <Volume>2</Volume>
+        <Type>Petrol</Type>
+        <SerialNumber>ABC123</SerialNumber>
+      </Engine>
+      <Chassis>
+        <WheelsNumber>6</WheelsNumber>
+        <Number>345678</Number>
+        <PermissibleLoad>5000</PermissibleLoad>
+      </Chassis>
+      <Transmission>
+        <Type>Manual</Type>
+        <NumberOfGears>5</NumberOfGears>
+        <Manufacturer>ABC Manufacturer</Manufacturer>
+      </Transmission>
+    </Bus>
+  </TransmissionGroup>
+</Vehicles>
